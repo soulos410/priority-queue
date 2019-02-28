@@ -35,7 +35,6 @@ class MaxHeap {
 	}
 
 	size() {
-		console.log(this.heapSize);
 		return this.heapSize;
 	}
 
